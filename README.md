@@ -1,38 +1,60 @@
-**Olá! Eu sou o Lucas Alnecar** 👋
+<!-- FOXHOUND:START -->
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+# 🐍 LUCSLIMAS // FOXHOUND FIELD DOSSIER
 
-💻 Interessado em desenvolvimento web e criação de soluções com tecnologia.
+**TACTICAL ESPIONAGE ACTION · DEVELOPER PROFILE**
 
-**Sobre mim**
+<img src="https://img.shields.io/badge/OPERATION-SNAKE_EATER-556B2F?style=for-the-badge&labelColor=172016" alt="Operation Snake Eater"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-9AA66E?style=for-the-badge&labelColor=172016" alt="Status active"/>
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Desenvolvendo minhas habilidades em HTML, CSS e JavaScript
-- 🛠️ Criando projetos acadêmicos para colocar meus conhecimentos em prática
-- 🎯 Buscando evoluir continuamente como desenvolvedor
+*“Kept you waiting, huh?”*
 
-Tecnologias
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</div>Projetos em destaque
-
-📊 Modelo ERP
-
-Projeto acadêmico relacionado a um modelo de sistema ERP.
-
-🌐 Projeto HTML
-
-Projeto acadêmico voltado ao desenvolvimento web.
-
-Contato
-
-- GitHub: "@LucsLimas" (https://github.com/LucsLimas)
+</div>
 
 ---
 
-Aprendendo, desenvolvendo e evoluindo um projeto de cada vez. 🚀
+> **MISSION BRIEFING**  
+> Desenvolvedor em evolução contínua. Este perfil transforma atividade pública do GitHub em uma campanha de progressão inspirada em **Metal Gear Solid 3**. Os números abaixo são gerados pela API pública do GitHub; missões e bônus são configurados manualmente.
+
+## 🛰️ Personnel file
+
+| FIELD | CURRENT INTEL |
+|---|---|
+| Codename | `SNAKE` |
+| Unit | `FOXHOUND` |
+| Current rank | `<!-- RANK -->` |
+| Campaign XP | `<!-- XP -->` |
+| Next promotion | `<!-- NEXT_RANK -->` |
+
+## 📡 Tactical situation
+
+<!-- STATS:START -->
+*Relatório ainda não gerado. Execute o workflow **FOXHOUND Profile Update** ou rode `python scripts/update_profile.py` localmente.*
+<!-- STATS:END -->
+
+## 🎯 Mission log
+
+<!-- MISSIONS:START -->
+*As missões aparecem aqui após o primeiro relatório.*
+<!-- MISSIONS:END -->
+
+## 🏅 Decorations & achievements
+
+<!-- ACHIEVEMENTS:START -->
+*As conquistas aparecem aqui após o primeiro relatório.*
+<!-- ACHIEVEMENTS:END -->
+
+## 🌿 Field doctrine
+
+- **Consistency over grinding.** XP é um indicador lúdico, não uma medida absoluta de habilidade.
+- **Real intel only.** Nenhuma estatística é inventada; indisponibilidade da API interrompe a atualização em vez de publicar zeros falsos.
+- **Mission bonuses are earned.** Marque missões como concluídas em `data/missions.json` somente depois de cumprir os critérios.
+- **Public data only.** O relatório usa informações públicas do GitHub e não tenta inferir atividade privada.
+
+<div align="center">
+
+`SNAKE EATER • OPERATIONAL REPORT • FOXHOUND`
+
+</div>
+<!-- FOXHOUND:END -->
