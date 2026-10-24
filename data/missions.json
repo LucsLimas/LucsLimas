@@ -1,0 +1,36 @@
+{
+  "missions": [
+    {
+      "id": "M01",
+      "title": "Virtuous Mission",
+      "description": "Publicar ou atualizar um projeto autoral com README claro.",
+      "bonus_xp": 100,
+      "completed": false,
+      "evidence_url": ""
+    },
+    {
+      "id": "M02",
+      "title": "Codec Check",
+      "description": "Documentar como executar um projeto localmente e como testá-lo.",
+      "bonus_xp": 75,
+      "completed": false,
+      "evidence_url": ""
+    },
+    {
+      "id": "M03",
+      "title": "No Trace",
+      "description": "Adicionar testes automatizados a um projeto existente.",
+      "bonus_xp": 150,
+      "completed": false,
+      "evidence_url": ""
+    },
+    {
+      "id": "M04",
+      "title": "Boss Fight",
+      "description": "Concluir uma melhoria relevante e registrar o que foi aprendido.",
+      "bonus_xp": 200,
+      "completed": false,
+      "evidence_url": ""
+    }
+  ]
+}
