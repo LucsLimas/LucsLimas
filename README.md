@@ -7,7 +7,7 @@
     width="100%"
     alt="Organic watercolor banner"
   />
-</p><h1 align="center">Olá, eu sou o Lucas</h1><p align="center">
+</p><h1 align="center">Ola a todos! Sou o Lucas</h1><p align="center">
   <i>Transformando curiosidade em código, ideias em projetos e aprendizado em evolução.</i>
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3500&pause=1000&color=82936A&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Tecnologia+%26+Criatividade" alt="Apresentação animada" />
