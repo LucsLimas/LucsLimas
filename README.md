@@ -101,8 +101,4 @@ Gosto de explorar como a tecnologia pode transformar ideias em soluções reais.
   </a>
 </p><p align="center">
   <i>"Grandes jornadas começam com pequenos passos."</i>
-</p><p align="center">
-  <img src="./assets/footer.png" width="100%" alt="Organic watercolor footer" />
-</p><p align="center">
-  <sub>Feito com curiosidade, criatividade e muitos commits. 🌱</sub>
 </p>
