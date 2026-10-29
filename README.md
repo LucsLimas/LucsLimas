@@ -1,38 +1,116 @@
-**Olá! Eu sou o Lucas Alnecar** 👋
+<!--
+  LUCAS LIMAS | ORGANIC TECH
+  GitHub Profile README
+--><!-- BANNER --><p align="center">
+  <img
+    src="./assets/banner.png"
+    width="100%"
+    alt="Organic watercolor banner"
+  />
+</p><h1 align="center">Olá, eu sou o Lucas! 🌿</h1><p align="center">
+  <i>Transformando curiosidade em código, ideias em projetos e aprendizado em evolução.</i>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3500&pause=1000&color=82936A&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Tecnologia+%26+Criatividade" alt="Apresentação animada" />
+</p>---
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🍃 Sobre mim
 
-💻 Interessado em desenvolvimento web e criação de soluções com tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, música e boas histórias.
 
-**Sobre mim**
+Gosto de explorar como a tecnologia pode transformar ideias em soluções reais. Atualmente, estou construindo minha jornada no desenvolvimento de software, aprendendo, experimentando e desenvolvendo projetos acadêmicos e pessoais.
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Desenvolvendo minhas habilidades em HTML, CSS e JavaScript
-- 🛠️ Criando projetos acadêmicos para colocar meus conhecimentos em prática
-- 🎯 Buscando evoluir continuamente como desenvolvedor
-
-Tecnologias
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</div>Projetos em destaque
-
-📊 Modelo ERP
-
-Projeto acadêmico relacionado a um modelo de sistema ERP.
-
-🌐 Projeto HTML
-
-Projeto acadêmico voltado ao desenvolvimento web.
-
-Contato
-
-- GitHub: "@LucsLimas" (https://github.com/LucsLimas)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Interessado em desenvolvimento web.
+- 🌱 Aprimorando meus conhecimentos em programação e banco de dados.
+- 🔍 Explorando lógica, algoritmos e resolução de problemas.
+- 🎨 Acredito na conexão entre tecnologia, criatividade e design.
 
 ---
 
-Aprendendo, desenvolvendo e evoluindo um projeto de cada vez. 🚀
+🖥️ Tecnologias & ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql&theme=light" alt="Tecnologias" />
+</p>Atualmente estudando: desenvolvimento web, banco de dados, lógica de programação e boas práticas de desenvolvimento.
+
+---
+
+🌱 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>◈ Projeto Atlas</h3>
+      <p>Explorando culturas, países e conhecimentos através de uma experiência web.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E8DCC1?style=flat&logo=html5&logoColor=493D38" />
+        <img src="https://img.shields.io/badge/CSS-E8DCC1?style=flat&logo=css3&logoColor=493D38" />
+        <img src="https://img.shields.io/badge/JavaScript-E8DCC1?style=flat&logo=javascript&logoColor=493D38" />
+      </p>
+      <a href="https://github.com/LucsLimas/Projeto-Atlas">Conhecer projeto →</a>
+    </td>
+    <td width="50%">
+      <h3>◈ Projeto ERP — UPSkill</h3>
+      <p>Modelagem de dados e representação de processos de uma instituição de ensino.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Database-E8DCC1?style=flat&logo=databricks&logoColor=493D38" />
+        <img src="https://img.shields.io/badge/SQL-E8DCC1?style=flat&logo=mysql&logoColor=493D38" />
+      </p>
+      <a href="https://github.com/LucsLimas/Projeto-ERP---UPSkill">Conhecer projeto →</a>
+    </td>
+  </tr>
+</table>---
+
+📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=LucsLimas&show_icons=true&hide_border=true&bg_color=F4EBDD&title_color=344C36&icon_color=D98955&text_color=493D38&include_all_commits=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucsLimas&layout=compact&hide_border=true&bg_color=F4EBDD&title_color=344C36&text_color=493D38"
+    alt="Linguagens mais utilizadas"
+  />
+</p><p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LucsLimas&bg_color=F4EBDD&color=344C36&line=82936A&point=D98955&area=true&hide_border=true"
+    alt="Gráfico de contribuições"
+  />
+</p>---
+
+🌿 Minha jornada
+
+<p align="center">
+  <b>Aprender</b> &nbsp; → &nbsp;
+  <b>Experimentar</b> &nbsp; → &nbsp;
+  <b>Construir</b> &nbsp; → &nbsp;
+  <b>Evoluir</b>
+</p>Acredito que cada projeto é uma oportunidade de aprender algo novo. Meu objetivo é desenvolver uma base técnica sólida e construir soluções cada vez melhores.
+
+---
+
+🎧 Um pouco além do código
+
+Música, arte, natureza e cultura japonesa fazem parte das minhas inspirações.
+
+A estética lo-fi, o universo visual dos animes e a musicalidade de artistas como Nujabes me lembram que criatividade e tecnologia podem caminhar juntas.
+
+---
+
+🤝 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://github.com/LucsLimas">
+    <img src="https://img.shields.io/badge/GitHub-344C36?style=for-the-badge&logo=github&logoColor=F4EBDD" />
+  </a>
+</p><p align="center">
+  <i>"Grandes jornadas começam com pequenos passos."</i>
+</p><p align="center">
+  <img src="./assets/footer.png" width="100%" alt="Organic watercolor footer" />
+</p><p align="center">
+  <sub>Feito com curiosidade, criatividade e muitos commits. 🌱</sub>
+</p>
