@@ -3,7 +3,7 @@
   GitHub Profile README
 --><!-- BANNER --><p align="center">
   <img
-    src="./assets/banner.png"
+    src="./assets/banner.jpeg"
     width="100%"
     alt="Organic watercolor banner"
   />
@@ -90,14 +90,6 @@ Gosto de explorar como a tecnologia pode transformar ideias em soluções reais.
   <b>Construir</b> &nbsp; → &nbsp;
   <b>Evoluir</b>
 </p>Acredito que cada projeto é uma oportunidade de aprender algo novo. Meu objetivo é desenvolver uma base técnica sólida e construir soluções cada vez melhores.
-
----
-
-🎧 Um pouco além do código
-
-Música, arte, natureza e cultura japonesa fazem parte das minhas inspirações.
-
-A estética lo-fi, o universo visual dos animes e a musicalidade de artistas como Nujabes me lembram que criatividade e tecnologia podem caminhar juntas.
 
 ---
 
